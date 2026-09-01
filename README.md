@@ -157,3 +157,12 @@ implementation("com.google.firebase:firebase-auth-ktx:23.2.1")
 
 <!-- GitHub Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=DcodeSharvi&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS"/>
+
+
+<!-- Instagram -->
+<a href="https://instagram.com/DcodeSharvi">
+<img src="https://img.shields.io/badge/Instagram-DcodeSharvi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+</div>
