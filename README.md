@@ -23,7 +23,7 @@
 
 ---
 
-## 🫴 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
+## ❤️ 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
 * 📱 Google Account Bottom Sheet
 * 🔐 Credential Manager Sign-In
