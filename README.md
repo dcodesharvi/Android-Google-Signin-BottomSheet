@@ -13,7 +13,8 @@
 
 ---
 
-> ## 📸 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧𝗦
+
+## 📸 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧𝗦
 
 <p align="center">
   <img src="screenshots/screenshot1.jpg" width="250"/>
