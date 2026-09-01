@@ -12,6 +12,17 @@
 </p>
 
 ---
+
+> ## 📸 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧𝗦
+
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" width="250"/>
+      <img src="screenshots/screenshot2.jpg" width="250"/>
+  <img src="screenshots/screenshot3.jpg" width="250"/>
+</p>
+
+---
+
 ## 🗂️ 𝗔𝗕𝗢𝗨𝗧
 
 **Category:** Android Development  
@@ -113,13 +124,6 @@ plugins {
 [Releases](../../releases)
 
 > The APK is provided for testing and demonstration purposes only.
-> ## 📸 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧𝗦
-
-<p align="center">
-  <img src="screenshots/screenshot1.jpg" width="250"/>
-      <img src="screenshots/screenshot2.jpg" width="250"/>
-  <img src="screenshots/screenshot3.jpg" width="250"/>
-</p>
 
 ---
 
