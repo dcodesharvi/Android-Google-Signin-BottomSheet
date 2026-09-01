@@ -5,7 +5,7 @@
 <p align="center">This is a demo of 𝗠𝗢𝗗𝗘𝗥𝗡 𝗚𝗢𝗢𝗚𝗟𝗘 𝗦𝗜𝗚𝗡-𝗜𝗡 Bottom Sheet & 𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘 𝗔𝗨𝗧𝗛</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Android%20SDK-37-green?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/Android%20SDK-30-green?style=for-the-badge&logo=android"/>
 <img src="https://img.shields.io/badge/Kotlin-1.9%2B-blue?style=for-the-badge&logo=kotlin"/>
 <img src="https://img.shields.io/badge/Credential%20Manager-1.5.0-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-Auth-orange?style=for-the-badge&logo=firebase"/>
