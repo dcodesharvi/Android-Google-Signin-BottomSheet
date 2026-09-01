@@ -150,7 +150,10 @@ implementation("com.google.firebase:firebase-auth-ktx:23.2.1")
 ---
 
 <h3 align="right">
-
 ❤️ 𝗖𝗢𝗗𝗘 ☕ 𝗙𝗢𝗖𝗨𝗦 🚀 𝗚𝗥𝗢𝗪 ⭐ 𝗜𝗡𝗦𝗣𝗜𝗥𝗘
-
 </h3>
+<div align="right">
+<p>
+
+<!-- GitHub Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=DcodeSharvi&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS"/>
