@@ -120,6 +120,7 @@ plugins {
       <img src="screenshots/screenshot2.jpg" width="250"/>
   <img src="screenshots/screenshot3.jpg" width="250"/>
 </p>
+
 ---
 
 ## ⚙️ 𝗦𝗜𝗚𝗡-𝗜𝗡 𝗙𝗟𝗢𝗪
